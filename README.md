@@ -2,7 +2,7 @@
 
 ## 環境構築
 
-`npm init`
+`npm install`
 
 ## Eslint 実行
 
