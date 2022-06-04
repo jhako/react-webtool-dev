@@ -25,6 +25,8 @@ module.exports = {
       { extensions: ['.js', '.jsx', '.json', '.ts', '.tsx'] },
     ],
     'prettier/prettier': 'error',
+    'no-unused-vars': 'off',
+    '@typescript-eslint/no-unused-vars': ['error'],
   },
   settings: {
     'import/resolver': {
